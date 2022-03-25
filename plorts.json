@@ -1,0 +1,155 @@
+{
+  "pink": {
+    "producer": "Pink Slime",
+    "value": {
+      "default": 10,
+      "minimum": 4,
+      "medium": 14,
+      "maximum": 23
+    }
+  },
+  "rock": {
+    "producer": "Rock Slime",
+    "value": {
+      "default": 22,
+      "minimum": 8,
+      "medium": 30,
+      "maximum": 50
+    }
+  },
+  "phosphor": {
+    "producer": "Phosphor Slime",
+    "value": {
+      "default": 22,
+      "minimum": 8,
+      "medium": 30,
+      "maximum": 49
+    }
+  },
+  "tabby": {
+    "producer": "Tabby Slime",
+    "value": {
+      "default": 22,
+      "minimum": 8,
+      "medium": 30,
+      "maximum": 50
+    }
+  },
+  "rad": {
+    "producer": "Rad Slime",
+    "value": {
+      "default": 45,
+      "minimum": 15,
+      "medium": 60,
+      "maximum": 99
+    }
+  },
+  "honey": {
+    "producer": "Honey Slime",
+    "value": {
+      "default": 45,
+      "minimum": 15,
+      "medium": 60,
+      "maximum": 98
+    }
+  },
+  "boom": {
+    "producer": "Boom Slime",
+    "value": {
+      "default": 45,
+      "minimum": 15,
+      "medium": 60,
+      "maximum": 99
+    }
+  },
+  "puddle": {
+    "producer": "Puddle",
+    "value": {
+      "default": 45,
+      "minimum": 15,
+      "medium": 60,
+      "maximum": 99
+    }
+  },
+  "fire": {
+    "producer": "Fire Slime",
+    "value": {
+      "default": 45,
+      "minimum": 15,
+      "medium": 60,
+      "maximum": 99
+    }
+  },
+  "crystal": {
+    "producer": "Crystal Slime",
+    "value": {
+      "default": 60,
+      "minimum": 21,
+      "medium": 80,
+      "maximum": 132
+    }
+  },
+  "quantum": {
+    "producer": "Quantum Slime",
+    "value": {
+      "default": 60,
+      "minimum": 21,
+      "medium": 80,
+      "maximum": 130
+    }
+  },
+  "dervish": {
+    "producer": "Dervish Slime",
+    "value": {
+      "default": 75,
+      "minimum": 26,
+      "medium": 100,
+      "maximum": 164
+    }
+  },
+  "hunter": {
+    "producer": "Hunter Slime",
+    "value": {
+      "default": 60,
+      "minimum": 20,
+      "medium": 80,
+      "maximum": 132
+    }
+  },
+  "mosaic": {
+    "producer": "Mosaic Slime",
+    "value": {
+      "default": 75,
+      "minimum": 26,
+      "medium": 100,
+      "maximum": 165
+    }
+  },
+  "tangle": {
+    "producer": "Tangle Slime",
+    "value": {
+      "default": 75,
+      "minimum": 25,
+      "medium": 100,
+      "maximum": 167
+    }
+  },
+  "saber": {
+    "producer": "Saber Slime",
+    "value": {
+      "default": 60,
+      "minimum": 20,
+      "medium": 80,
+      "maximum": 134
+    }
+  },
+  "gold": {
+    "producer": "Gold Slime",
+    "value": {
+      "default": 300,
+      "minimum": 102,
+      "medium": 400,
+      "maximum": 658
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "pink": {
+    "diet": "Omnivorous",
+    "favouriteFood": "None",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Dry Reef",
+      "The Moss Blanket",
+      "The Indigo Quarry",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  },
+  "rock": {
+    "diet": "Veggies",
+    "favouriteFood": "Heart Beet",
+    "behaviour": "Harmful",
+    "formsLargo": true,
+    "locations": [
+      "The Dry Reef",
+      "The Indigo Quarry",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  },
+  "phosphor": {
+    "diet": "Fruit",
+    "favouriteFood": "Cuberry",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Dry Reef",
+      "The Moss Blanket",
+      "The Indigo Quarry",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  },
+  "tabby": {
+    "diet": "Meat",
+    "favouriteFood": "Stony Hen",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Dry Reef",
+      "The Moss Blanket",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  },
+  "rad": {
+    "diet": "Veggies",
+    "favouriteFood": "Oca Oca",
+    "behaviour": "Harmful",
+    "formsLargo": true,
+    "locations": [
+      "The Indigo Quarry"
+    ]
+  },
+  "honey": {
+    "diet": "Fruit",
+    "favouriteFood": "Mint Mango",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Moss Blanket"
+    ]
+  },
+  "boom": {
+    "diet": "Meat",
+    "favouriteFood": "Briar Hen",
+    "behaviour": "Harmful",
+    "formsLargo": true,
+    "locations": [
+      "The Moss Blanket",
+      "The Indigo Quarry",
+      "The Glass Desert"
+    ]
+  },
+  "puddle": {
+    "diet": "Water",
+    "favouriteFood": "None",
+    "behaviour": "Docile",
+    "formsLargo": false,
+    "locations": [
+      "The Dry Reef",
+      "The Moss Blanket",
+      "The Indigo Quarry",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  },
+  "fire": {
+    "diet": "Ash",
+    "favouriteFood": "None",
+    "behaviour": "Harmful",
+    "formsLargo": false,
+    "locations": [
+      "The Glass Desert"
+    ]
+  },
+  "crystal": {
+    "diet": "Veggies",
+    "favouriteFood": "Odd Onion",
+    "behaviour": "Harmful",
+    "formsLargo": true,
+    "locations": [
+      "The Indigo Quarry"
+    ]
+  },
+  "quantum": {
+    "diet": "Fruit",
+    "favouriteFood": "Phase Lemon",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Glass Desert",
+      "The Ancient Ruins"
+    ]
+  },
+  "dervish": {
+    "diet": "Fruit",
+    "favouriteFood": "Prickle Pear",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Glass Desert"
+    ]
+  },
+  "hunter": {
+    "diet": "Meal",
+    "favouriteFood": "Roostro",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Glass Desert",
+      "The Moss Blanket"
+    ]
+  },
+  "mosaic": {
+    "diet": "Veggies",
+    "favouriteFood": "Silver Parsnip",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Glass Desert"
+    ]
+  },
+  "tangle": {
+    "diet": "Meat",
+    "favouriteFood": "Painted Hen",
+    "behaviour": "Docile",
+    "formsLargo": true,
+    "locations": [
+      "The Glass Desert"
+    ]
+  },
+  "saber": {
+    "diet": "Meat",
+    "favouriteFood": "Unknown",
+    "behaviour": "Feral",
+    "formsLargo": true,
+    "locations": [
+      "The Wilds"
+    ]
+  },
+  "gold": {
+    "diet": "Gilded Ginger",
+    "favouriteFood": "Gilded Ginger",
+    "behaviour": "Special",
+    "formsLargo": false,
+    "locations": [
+      "The Dry Reef",
+      "The Moss Blanket",
+      "The Indigo Quarry",
+      "The Ancient Ruins",
+      "The Glass Desert"
+    ]
+  }
+}
